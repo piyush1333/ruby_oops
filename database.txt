@@ -1,0 +1,5 @@
+1|car|12000|15|maruti
+2|cat|1200|44|honda
+3|toy|152|12|demart
+4|computer|12000|15|lg
+5|lamp|150|45|philips
